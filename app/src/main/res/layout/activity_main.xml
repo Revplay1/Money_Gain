@@ -28,7 +28,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/finlandica"
-        android:text="MoneyGrain will help you calculate what amouth your investment will \nreturn to you in few simple steps."
+        android:text="MoneyGain will help you calculate what amouth your investment will \nreturn to you in few simple steps."
         android:textAlignment="center"
         android:textColor="@color/moneygain"
         android:textSize="12dp"
